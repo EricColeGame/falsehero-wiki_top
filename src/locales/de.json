@@ -1,1 +1,457 @@
-{}
+{
+  "site": {
+    "name": "False Hero Wiki",
+    "shortName": "False Hero",
+    "tagline": "Kampf-Leitfäden, Boss-Guides & Builds",
+    "description": "Entdecke das False Hero Wiki mit Kampf-Guides, Boss-Strategien, Fähigkeits-Builds, Gameplay-Tipps und detaillierten Informationen zu diesem düsteren Soulslike-Action-RPG.",
+    "legalNotice": "Inoffizielles Fan-Wiki. Von Spielern für Spieler erstellt."
+  },
+  "nav": {
+    "home": "Home",
+    "menu": "Menu",
+    "toggleTheme": "Design wechseln",
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "characters": "Characters",
+    "progression": "Progression",
+    "controls": "Controls",
+    "community": "Community",
+    "release": "Release"
+  },
+  "home": {
+    "meta": {
+      "title": "False Hero Wiki — Kampfkünste, Boss-Guides & Builds",
+      "description": "Vollständiges False Hero Wiki und Guide zu Kampfkünsten, Boss-Strategien, Fähigkeits-Diebstahl-Kombos und optimalen Soulslike-Builds."
+    },
+    "hero": {
+      "eyebrow": "Rasantes Soulslike-Action-Abenteuer",
+      "title": "False Hero Wiki",
+      "description": "False Hero ist ein düsteres Soulslike-Abenteuer, in dem Spieler gegnerische Fähigkeiten stehlen, mächtige Kombos kreieren, anspruchsvolle Bosse bezwingen und eine korrumpierte, von gefallenen Göttern beherrschte Welt erkunden.",
+      "stats": [
+        "Dutzende Kampfkünste",
+        "Boss-Guides & Taktiken",
+        "Fähigkeits-Diebstahl-Kombos",
+        "Wöchentliche Updates"
+      ],
+      "primaryCta": "Anfänger-Guide",
+      "secondaryCta": "Boss-Guides",
+      "tertiaryCta": "Kampf-Builds",
+      "videoLabel": "Offizieller Trailer"
+    },
+    "updates": {
+      "title": "Neueste Updates",
+      "browse": "Alle Guides durchsuchen",
+      "viewAll": "Alle anzeigen"
+    },
+    "start": {
+      "eyebrow": "Hier starten",
+      "title": "Deine False Hero Reise",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Anfänger-Guide",
+          "description": "Meistere Bewegungsgrundlagen, Ausdauermanagement und essenzielle Überlebensmechaniken im Reich der Götter."
+        },
+        {
+          "number": "2",
+          "title": "Kampfkünste & Fähigkeitsraub",
+          "description": "Lerne, wie du mit deinem Maskenrelikt gegnerische Fertigkeiten absaugst und in verheerende Kombos einbindest."
+        },
+        {
+          "number": "3",
+          "title": "Bosskampf-Strategien",
+          "description": "Analysiere Angriffs-Telegraphs, weiche tödlichen Rundumschlägen aus und kontere aggressive gefallene Gottheiten."
+        },
+        {
+          "number": "4",
+          "title": "Schriftrollen & Build-Optimierung",
+          "description": "Kombiniere aktive Kampfkünste mit passiven Maskenrollen für maximale Fokus-Generierung und Taumelschaden."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Beliebte Seiten",
+      "title": "Aktuell im Trend",
+      "quickLinks": [
+        "Kampfkünste",
+        "Boss-Guides",
+        "Beste Builds",
+        "Steuerung"
+      ],
+      "cards": [
+        {
+          "badge": "Anfänger",
+          "title": "Anfänger-Guide",
+          "description": "Alles von den ersten Schritten bis zum Meistern von Kampfmechanik und Ausdauer.",
+          "href": "/guide/false-hero-beginner-guide"
+        },
+        {
+          "badge": "Kampf",
+          "title": "Fähigkeitenraub-Guide",
+          "description": "Extrahiere gegnerische Talente und baue zerstörerische Angriffsketten auf.",
+          "href": "/mechanics/false-hero-steal-attacks"
+        },
+        {
+          "badge": "Bosse",
+          "title": "Boss-Begegnungen",
+          "description": "Taktiken, Angriffs-Telegraphs und empfohlene Kampfkünste für große Bosskämpfe.",
+          "href": "/characters/false-hero-bosses"
+        },
+        {
+          "badge": "Builds",
+          "title": "Build-Optimierung",
+          "description": "Fünf-Slot-Kampfkunst-Loadouts und passive Schriftrollen für maximale Effizienz.",
+          "href": "/progression/false-hero-build"
+        },
+        {
+          "badge": "Steuerung",
+          "title": "Steuerung & Tastenbelegung",
+          "description": "Vollständige Controller- und Tastaturbelegung für flüssiges Ausweichen und Parieren.",
+          "href": "/controls/false-hero-controls"
+        },
+        {
+          "badge": "Tipps",
+          "title": "Kampf-Tipps",
+          "description": "Parade-Zeitfenster, Ausnutzen von Erholungsphasen und Ausdauer-Grenzwerte.",
+          "href": "/guide/false-hero-tips"
+        },
+        {
+          "badge": "Gegner",
+          "title": "Gegner-Bestiarium",
+          "description": "Übersicht aller Monster, Schläger und raubbarer Angriffs-Archetypen.",
+          "href": "/characters/false-hero-enemies"
+        },
+        {
+          "badge": "Speedrun",
+          "title": "Speedrun-Techniken",
+          "description": "Dash-Cancels, Kantenabkürzungen und Routenaufteilungen für Boss-Splits.",
+          "href": "/guide/false-hero-speedrun"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Was ist False Hero?",
+      "paragraphs": [
+        "False Hero ist ein rasantes Dark-Fantasy-Soulslike-Action-RPG, entwickelt von Torchlight Games und veröffentlicht von Ytopia. Statt auf passives Level-Grinding setzt das Spiel auf präzise Ausführung und versetzt dich in die Rolle eines maskierten Gelehrten im korrumpierten Reich der Götter.",
+        "Statt dich allein auf herkömmliche Waffen zu verlassen, hängt dein Überleben vom Absaugen tödlicher Kampfkünste besiegter Feinde ab. Meistere präzise Paraden, verknüpfe gestohlene Fähigkeiten und bezwinge kolossale Bosse in einer unerbittlichen Welt."
+      ],
+      "stats": [
+        {
+          "label": "Entwickler",
+          "value": "Torchlight Games"
+        },
+        {
+          "label": "Publisher",
+          "value": "Ytopia"
+        },
+        {
+          "label": "Genre",
+          "value": "Soulslike Action-RPG"
+        },
+        {
+          "label": "Plattform",
+          "value": "PC (Steam)"
+        },
+        {
+          "label": "Kampfkünste",
+          "value": "Dutzende"
+        },
+        {
+          "label": "Aktive Slots",
+          "value": "5 Künste + 3 Rollen"
+        }
+      ],
+      "cta": "Alle Guides durchsuchen"
+    },
+    "explore": {
+      "title": "False Hero Wiki erkunden",
+      "description": "Meistere das korrumpierte Land der Götter mit Kampfsystem-Analysen, Boss-Taktiken, Katalogen gestohlener Fähigkeiten und Build-Guides.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "False Hero Anfänger-Guide",
+          "description": "Einsteigerfreundlicher Leitfaden zu Kernmechaniken, Kampfgrundlagen, Fähigkeitenraub, Erkundungstipps und wichtigen Systemen.",
+          "href": "/guide/false-hero-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Lerne Ausdauermanagement und Grundschläge zum Aufbau von Fokus"
+            },
+            {
+              "label": "2",
+              "detail": "Sauge kinetische Essenz innerhalb von 5 Sekunden nach dem Besiegen auf"
+            },
+            {
+              "label": "3",
+              "detail": "Rüste bis zu fünf Kampfkünste für flexible Distanzen aus"
+            },
+            {
+              "label": "4",
+              "detail": "Verwende passive Maskenrollen für schnellere Ausdauerregeneration"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "False Hero Kampfkünste-Guide",
+          "description": "Erklärt das einzigartige Kampfsystem, das Stehlen gegnerischer Talente, Kombos und strategische Kampfansätze.",
+          "href": "/mechanics/false-hero-steal-attacks",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Absaugen",
+              "detail": "Gewinne einzigartige Talente aus der Essenz besiegter Feinde"
+            },
+            {
+              "label": "Fokus",
+              "detail": "Stelle Fähigkeiten-FP durch gezielte leichte Schwerthiebe wieder her"
+            },
+            {
+              "label": "Synergie",
+              "detail": "Verbinde Sturmangriffe direkt mit taumelnden Rundumschlägen"
+            },
+            {
+              "label": "Ausdauer",
+              "detail": "Halte 20% Ausdauerreserve für rettende Ausweichrollen bereit"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "False Hero Boss-Guide",
+          "description": "Umfassende Boss-Übersicht zu großen Begegnungen, Angriffsmustern, Taktiken und optimaler Vorbereitung.",
+          "href": "/characters/false-hero-bosses",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Telegraph",
+              "detail": "Erkenne Flächenangriffs-Animationen vor dem Ausführen schwerer Künste"
+            },
+            {
+              "label": "Haltung",
+              "detail": "Verursache Haltungsbrüche mit wuchtigen Schlägen brutaler Gegner"
+            },
+            {
+              "label": "Ausweichen",
+              "detail": "Nutze I-Frames bei Rollen, um lineare Schläge gefahrlos zu meiden"
+            },
+            {
+              "label": "Konter",
+              "detail": "Wähle Projektil-abwehrende Gottkräfte gegen Magier-Bosse"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "False Hero Waffen & Fähigkeiten",
+          "description": "Zeigt verfügbare Kampffähigkeiten, raubbare Monster-Skills und freischaltbare Optionen im Spielverlauf.",
+          "href": "/mechanics/false-hero-abilities",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Spaltschlag & Phasen-Dash — Unübertroffener Taumelschaden und Unverwundbarkeit"
+            },
+            {
+              "label": "A",
+              "detail": "Göttliche Schockwelle — Erstklassige Flächenkontrolle und Berstschaden"
+            },
+            {
+              "label": "B",
+              "detail": "Schnellstich — Hohe Angriffsrate ideal zum Unterbrechen gegnerischer Zauber"
+            },
+            {
+              "label": "C",
+              "detail": "Grundhieb — Essentielles Startwerkzeug für beständigen Fokusaufbau"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "False Hero Enden-Guide",
+          "description": "Behandelt Story-Entscheidungen, mögliche Enden und entscheidende Weichenstellungen auf deiner Reise.",
+          "href": "/guide/false-hero-walkthrough",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Entscheidungen",
+              "detail": "Verfolge zentrale narrative Weichenstellungen im Tagesablauf"
+            },
+            {
+              "label": "Pakte",
+              "detail": "Bestimme deine Bindung zu gefallenen Gottheiten und alten Schreinen"
+            },
+            {
+              "label": "Pfade",
+              "detail": "Schalte individuelle Handlungsstränge durch Meilensteine frei"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "False Hero Karte & Geheimnisse",
+          "description": "Liefert Erkundungsinformationen zu Schauplätzen, versteckten Bereichen, Sammlerstücken und Geheimnissen.",
+          "href": "/guide/false-hero-tips",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Schreine",
+              "detail": "Finde verborgene Götteraltäre für einzigartige passive Rollen"
+            },
+            {
+              "label": "Elitegegner",
+              "detail": "Jage optionale Mini-Bosse für verbesserte Fähigkeiten-Varianten"
+            },
+            {
+              "label": "Abkürzungen",
+              "detail": "Öffne Verbindungstore zwischen den Checkpoint-Hubs aller Zonen"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "False Hero Erfolge-Leitfaden",
+          "description": "Steam-Errungenschaften und Abschlussziele mit Ratschlägen zum Freischalten anspruchsvoller Aufgaben.",
+          "href": "/controls/false-hero-controls",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "First Fall",
+              "detail": "Besiege deinen ersten gefallenen Gott und erhalte dessen Hauptmaske"
+            },
+            {
+              "label": "Artisan",
+              "detail": "Schalte fünf verschiedene geraubte Kampfkünste gleichzeitig frei"
+            },
+            {
+              "label": "Parry God",
+              "detail": "Führe zwanzig perfekte göttliche Paraden ohne Gegentreffer aus"
+            },
+            {
+              "label": "True Vessel",
+              "detail": "Sammle alle uralten passiven Maskenrollen im gesamten Reich"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "False Hero Neuigkeiten & Updates",
+          "description": "Sammelt offizielle Ankündigungen, Release-Updates, Entwickler-News und Patch-Notizen.",
+          "href": "/release/false-hero-release-date",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Steam-Demo",
+              "detail": "Offizielle spielbare Demo im Steam Store verfügbar"
+            },
+            {
+              "label": "Kampf-Patch",
+              "detail": "Verfeinerte Parade-Zeitfenster und reaktionsschnellere Dashes"
+            },
+            {
+              "label": "Speedrun",
+              "detail": "Aktive Ranglisten für Any% und Boss-Herausforderungen"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen (FAQ)",
+      "description": "Schnelle Antworten auf die wichtigsten Fragen zu Gameplay, Kampfsystem und Spielfortschritt in False Hero.",
+      "items": [
+        {
+          "question": "Was für ein Spiel ist False Hero?",
+          "answer": "False Hero ist ein rasantes Dark-Fantasy-Soulslike-Action-RPG, in dem du eine korrumpierte Welt gefallener Götter erkundest, Gegner bekämpfst und deren Angriffe in mächtige Kombos integrierst."
+        },
+        {
+          "question": "Wie funktioniert das Stehlen von Fähigkeiten in False Hero?",
+          "answer": "Besiegte Feinde hinterlassen kurzzeitig kinetische Essenz. Nutzt du in diesem Zeitfenster dein Maskenrelikt, extrahierst du ihre charakteristische Technik und kannst bis zu fünf Kampfkünste ausrüsten."
+        },
+        {
+          "question": "Wie baut man Fokus für Kampfkünste auf?",
+          "answer": "In False Hero verbrauchen reguläre Schwerthiebe Ausdauer, regenerieren dafür aber deine Fokuspunkte (FP). Mit Fokus entfesselst du anschließend deine gestohlenen Spezialangriffe."
+        },
+        {
+          "question": "Kann man Builds und passive Boni individuell anpassen?",
+          "answer": "Ja, du kannst bis zu fünf aktive gestohlene Kampfkünste und drei passive Maskenrollen ausrüsten, die Schaden, Fokusregeneration und Verteidigungswerte gezielt modifizieren."
+        },
+        {
+          "question": "Auf welchen Plattformen ist False Hero verfügbar?",
+          "answer": "False Hero ist für PC auf Steam erhältlich und unterstützt Xbox- sowie PlayStation-Controller ebenso wie Tastatur und Maus."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Bereit, False Hero zu meistern?",
+      "description": "Von den ersten Kämpfen über gefallene Götter bis zu Endgame-Bossen bietet dir unser Community-Wiki kostenlose, umfassende Guides.",
+      "primary": "Anfänger-Guide lesen",
+      "secondary": "Auf Steam spielen"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Wiki-Navigation",
+    "activeCodes": "Aktive Codes",
+    "updated": "Aktualisiert",
+    "viewAllCodes": "Alle Codes anzeigen",
+    "playOnRoblox": "Auf Steam spielen",
+    "inThisSection": "In diesem Abschnitt",
+    "tableOfContents": "Inhaltsverzeichnis",
+    "nextSteps": "Nächste Schritte",
+    "needHelp": "Brauchst du Hilfe?",
+    "relatedReading": "Weiterführende Lektüre",
+    "relatedGuides": "Verwandte Guides",
+    "readMore": "Mehr erfahren",
+    "officialMedia": "Offizielle Medien",
+    "home": "Startseite",
+    "noGuidesAvailable": "Noch keine Guides verfügbar. Schau bald wieder vorbei!"
+  },
+  "footer": {
+    "aboutTitle": "False Hero Wiki",
+    "about": "Das False Hero Wiki ist eine unabhängige Fan-Plattform mit Leitfäden zu Kampfmechaniken, Fähigkeitenraub, Boss-Taktiken, Builds und Komplettlösungen für neue wie erfahrene Spieler.",
+    "quickLinks": "Schnellzugriff",
+    "guides": "Guides",
+    "legal": "Rechtliches",
+    "copyright": "2026 False Hero Wiki. Nicht verbunden mit Torchlight Games oder Ytopia.",
+    "description": "Dark-Fantasy-Soulslike-Action-RPG auf Steam. Stiehl gegnerische Fähigkeiten, verknüpfe Angriffe und bezwinge gefallene Götter.",
+    "playGame": "False Hero spielen",
+    "officialDiscord": "Offizieller Discord",
+    "officialYoutube": "Offizieller YouTube-Kanal",
+    "beginnerGuide": "Anfänger-Guide",
+    "bossGuides": "Boss-Guides",
+    "buildGuide": "Build-Guide",
+    "privacyPolicy": "Datenschutzrichtlinie",
+    "termsOfService": "Nutzungsbedingungen",
+    "combatMechanics": "Kampfmechanik",
+    "controlsGuide": "Steuerungs-Guide"
+  },
+  "guide": {
+    "overviewTitle": "False Hero Guides & Walkthroughs",
+    "overviewDescription": "Umfassende Einsteiger-Guides, Fortschrittspläne, Speedrun-Splits und lebenswichtige Überlebenstipps für False Hero."
+  },
+  "mechanics": {
+    "overviewTitle": "False Hero Kampfmechanik",
+    "overviewDescription": "Tiefgehende Analysen der Kampfsysteme, des Fähigkeitenraubs, der Parade-Zeitfenster, Taumelmechaniken und Kampfkünste."
+  },
+  "characters": {
+    "overviewTitle": "False Hero Charaktere & Bosse",
+    "overviewDescription": "Vollständiges Bestiarium, Verhaltensmuster, Götter-Hintergründe und taktische Strategien gegen jeden Boss in False Hero."
+  },
+  "progression": {
+    "overviewTitle": "False Hero Builds & Fortschritt",
+    "overviewDescription": "Strategien zur Build-Optimierung, Talentpfade, Götterkraft-Loadouts und Skalierung der Schwierigkeitsgrade."
+  },
+  "controls": {
+    "overviewTitle": "False Hero Steuerung & Tastaturbelegung",
+    "overviewDescription": "Optimierte PC-Tastenbelegung, Gamepad-Konfigurationen für Xbox und PlayStation sowie reaktionsschnelle Layouts."
+  },
+  "community": {
+    "overviewTitle": "False Hero Community & Hub",
+    "overviewDescription": "Offizielle Discord-Kanäle, Spieler-Reviews, Demo-Eindrücke und lebhafte Diskussionen rund um False Hero."
+  },
+  "release": {
+    "overviewTitle": "False Hero Release & Updates",
+    "overviewDescription": "Offizielle Erscheinungstermine, Trailer, Systemanforderungen, Patch-Notizen und Mitteilungen der Entwickler."
+  }
+}
