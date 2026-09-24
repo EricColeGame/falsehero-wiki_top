@@ -9,7 +9,14 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "characters": "Characters",
+    "progression": "Progression",
+    "controls": "Controls",
+    "community": "Community",
+    "release": "Release"
   },
   "home": {
     "meta": {
@@ -418,5 +425,33 @@
     "termsOfService": "Terms of Service",
     "combatMechanics": "Combat Mechanics",
     "controlsGuide": "Controls Guide"
+  },
+  "guide": {
+    "overviewTitle": "False Hero Guides & Walkthroughs",
+    "overviewDescription": "Master False Hero with beginner walkthroughs, boss encounter tactics, speedrun strategies, and essential gameplay survival tips."
+  },
+  "mechanics": {
+    "overviewTitle": "False Hero Combat Mechanics",
+    "overviewDescription": "Explore core gameplay systems including parrying windows, ability stealing mechanics, soulslike stamina management, and combo execution."
+  },
+  "characters": {
+    "overviewTitle": "False Hero Characters & Bosses",
+    "overviewDescription": "Discover complete profiles of corrupted gods, challenging bosses, hostile creatures, and lore characters in False Hero."
+  },
+  "progression": {
+    "overviewTitle": "False Hero Progression & Builds",
+    "overviewDescription": "Learn character stat growth, skill tree paths, equipment upgrades, difficulty scaling, and endgame build synergies."
+  },
+  "controls": {
+    "overviewTitle": "False Hero Controls & Settings",
+    "overviewDescription": "Full controller schemes, PC keyboard and mouse bindings, and Steam configuration settings for optimal responsiveness."
+  },
+  "community": {
+    "overviewTitle": "False Hero Community & Reviews",
+    "overviewDescription": "Join official Discord discussions, Reddit threads, player reviews, and demo impressions from the False Hero community."
+  },
+  "release": {
+    "overviewTitle": "False Hero Release & Updates",
+    "overviewDescription": "Stay informed on False Hero launch milestones, release date announcements, gameplay trailers, and future roadmap plans."
   }
 }
