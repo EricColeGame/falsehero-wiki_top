@@ -19,15 +19,15 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "My Seafood Stand Wiki",
-  shortName: "My Seafood Stand",
-  logoText: "SS",
-  tagline: "Complete Guides, Codes, Recipes & Tier Lists",
-  description: "Your ultimate guide to My Seafood Stand on Roblox! Explore active working codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top").hostname.replace(/^www\./, "")}`,
-  gameUrl: "https://www.roblox.com/games/my-seafood-stand",
-  heroVideoId: "M8DvcwoFRrk", // Roblox My Seafood Stand codes & gameplay video
+  name: "False Hero Wiki",
+  shortName: "False Hero",
+  logoText: "FH",
+  tagline: "Combat Guides, Boss Guides & Builds",
+  description: "Explore False Hero Wiki with combat guides, boss strategies, ability builds, gameplay tips, and detailed information for this dark fantasy soulslike adventure RPG.",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://falsehero-wiki.top",
+  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://falsehero-wiki.top").hostname.replace(/^www\./, "")}`,
+  gameUrl: "https://store.steampowered.com/app/2538870/False_Hero/",
+  heroVideoId: "Aq7PTIxoZa0",
   social: {
     discord: "https://discord.gg/roblox",
     youtube: "https://www.youtube.com/@roblox",
