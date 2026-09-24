@@ -310,20 +310,20 @@
           "displayType": "code-cards",
           "highlights": [
             {
-              "label": "RB / R1",
-              "detail": "Light Attack — Fast starter swings generating Focus"
+              "label": "First Fall",
+              "detail": "Defeat your first corrupted god and claim their primary mask"
             },
             {
-              "label": "RT / R2",
-              "detail": "Heavy Attack — Charged strikes breaking enemy guard"
+              "label": "Artisan",
+              "detail": "Unlock and equip five distinct siphoned combat arts simultaneously"
             },
             {
-              "label": "Y / Triangle",
-              "detail": "Mask Steal — Siphons slain enemy skills on defeat"
+              "label": "Parry God",
+              "detail": "Execute twenty successful god deflects without taking damage"
             },
             {
-              "label": "LB / L1",
-              "detail": "God Deflect — Timed block deflecting incoming strikes"
+              "label": "True Vessel",
+              "detail": "Collect all ancient passive mask scrolls scattered across the realm"
             }
           ]
         },
