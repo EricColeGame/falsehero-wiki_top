@@ -6,7 +6,18 @@
     "description": "Explore False Hero Wiki with combat guides, boss strategies, ability builds, gameplay tips, and detailed information for this dark fantasy soulslike adventure RPG.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "characters": "Characters",
+    "progression": "Progression",
+    "controls": "Controls",
+    "community": "Community",
+    "release": "Release",
+    "home": "Home",
+    "menu": "Menu",
+    "toggleTheme": "Toggle theme"
+  },
   "home": {
     "meta": {
       "title": "False Hero Wiki — Combat Arts, Boss Guides & Builds",
@@ -407,12 +418,40 @@
     "playGame": "Play False Hero",
     "officialDiscord": "Official Discord",
     "officialYoutube": "Official YouTube",
-    "vvBuilder": "Build Planner",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
     "bossGuides": "Boss Guides",
     "buildGuide": "Build Guide",
     "privacyPolicy": "Privacy Policy",
-    "termsOfService": "Terms of Service"
+    "termsOfService": "Terms of Service",
+    "combatMechanics": "Combat Mechanics",
+    "controlsGuide": "Controls Guide"
+  },
+  "guide": {
+    "overviewTitle": "Guide Overview",
+    "overviewDescription": "Complete walkthroughs, beginner tips, and speedrun strategies for False Hero."
+  },
+  "mechanics": {
+    "overviewTitle": "Mechanics Overview",
+    "overviewDescription": "Deep dive into combat mechanics, ability stealing, parry timing, and combat arts in False Hero."
+  },
+  "characters": {
+    "overviewTitle": "Characters Overview",
+    "overviewDescription": "Comprehensive bestiary, boss encounter breakdowns, and divine beings across False Hero."
+  },
+  "progression": {
+    "overviewTitle": "Progression Overview",
+    "overviewDescription": "Optimal combat builds, skill trees, upgrades, and difficulty tuning in False Hero."
+  },
+  "controls": {
+    "overviewTitle": "Controls Overview",
+    "overviewDescription": "Keybindings, controller layouts, and input optimization for PC and Steam Deck in False Hero."
+  },
+  "community": {
+    "overviewTitle": "Community Overview",
+    "overviewDescription": "Reviews, demo impressions, and Discord & Reddit community hubs for False Hero."
+  },
+  "release": {
+    "overviewTitle": "Release Overview",
+    "overviewDescription": "Release dates, launch announcements, trailers, and platform details for False Hero."
   }
 }
