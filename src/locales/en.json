@@ -9,8 +9,8 @@
   "nav": {},
   "home": {
     "meta": {
-      "title": "My Seafood Stand Wiki — Codes, Recipes, Upgrades & Guides",
-      "description": "Complete My Seafood Stand guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
+      "title": "False Hero Wiki — Combat Arts, Boss Guides & Builds",
+      "description": "Complete False Hero guide and wiki covering combat arts, boss encounter strategies, ability stealing combos, and optimal soulslike builds."
     },
     "hero": {
       "eyebrow": "Fast-Paced Soulslike Action Adventure",
@@ -34,27 +34,27 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your My Seafood Stand Journey",
+      "title": "Your False Hero Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Master core movement, stamina management, and essential survival fundamentals in the corrupted Land of the Gods."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Combat Arts & Stealing",
+          "description": "Learn how to siphon enemy abilities with your mask relic and weave stolen moves into high-damage combos."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Boss Battle Strategies",
+          "description": "Analyze boss telegraph windows, evade lethal sweeping attacks, and counter aggressive fallen deities."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in My Seafood Stand."
+          "title": "Scrolls & Build Optimization",
+          "description": "Combine active combat arts with passive mask scrolls to maximize Focus generation and stagger burst damage."
         }
       ]
     },
@@ -62,237 +62,285 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Combat Arts",
+        "Boss Guides",
+        "Best Builds",
+        "Controls"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Everything you need from your first steps to mastering combat mechanics and stamina.",
+          "href": "/guide/false-hero-beginner-guide"
         },
         {
-          "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "badge": "Combat",
+          "title": "Steal Attacks Guide",
+          "description": "Extract enemy abilities and build devastating attack strings with your relic mask.",
+          "href": "/mechanics/false-hero-steal-attacks"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "badge": "Bosses",
+          "title": "Boss Encounters",
+          "description": "Strategies, attack telegraphs, and combat art setups for major boss fights.",
+          "href": "/characters/false-hero-bosses"
         },
         {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "badge": "Builds",
+          "title": "Build Optimization",
+          "description": "Five-slot combat art loadouts and passive scrolls for maximum combat efficiency.",
+          "href": "/progression/false-hero-build"
         },
         {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "badge": "Controls",
+          "title": "Controls & Keybinds",
+          "description": "Complete controller and PC keyboard mapping for fluid dodging and parrying.",
+          "href": "/controls/false-hero-controls"
         },
         {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "badge": "Tips",
+          "title": "Combat Tips",
+          "description": "Parry timings, recovery exploitation, and stamina threshold recommendations.",
+          "href": "/guide/false-hero-tips"
         },
         {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "badge": "Enemies",
+          "title": "Enemy Bestiary",
+          "description": "Breakdown of wandering foes, brutes, and siphonable attack archetypes.",
+          "href": "/characters/false-hero-enemies"
         },
         {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Speedrun",
+          "title": "Speedrun Tech",
+          "description": "Dash-canceling, ledge snapping, and individual level boss route splits.",
+          "href": "/guide/false-hero-speedrun"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is My Seafood Stand?",
+      "title": "What is False Hero?",
       "paragraphs": [
-        "My Seafood Stand is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "False Hero is a fast-paced dark fantasy soulslike action RPG developed by Torchlight Games and published by Ytopia. Emphasizing fluid execution over passive level grinding, the game puts you in the mantle of a masked scholar navigating the corrupted Land of the Gods.",
+        "Rather than relying solely on conventional weapon trees, your survivability depends on siphoning lethal combat arts from fallen foes. Master precision parries, chain stolen abilities, and conquer colossal bosses in an unforgiving handcrafted world."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Torchlight Games"
         },
         {
-          "label": "Platform",
-          "value": "Roblox"
+          "label": "Publisher",
+          "value": "Ytopia"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Soulslike Action RPG"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Platform",
+          "value": "PC (Steam)"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Combat Arts",
+          "value": "Dozens"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Active Slots",
+          "value": "5 Arts + 3 Scrolls"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore My Seafood Stand Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore False Hero Wiki",
+      "description": "Master the corrupted Land of the Gods with essential combat breakdowns, boss battle strategies, stolen ability catalogs, and build guides.",
       "modules": [
         {
           "order": 1,
-          "name": "My Seafood Stand Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/my-seafood-stand-codes",
-          "displayType": "code-box",
+          "name": "False Hero Beginner Guide",
+          "description": "A beginner-focused guide covering core gameplay mechanics, combat basics, enemy attack stealing, exploration tips, and important systems for new players.",
+          "href": "/guide/false-hero-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Learn stamina management and basic sword strikes to generate Focus"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Siphon linger kinetic essence within 5 seconds of defeating enemies"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Slot up to five complementary combat arts for varied engagement ranges"
+            },
+            {
+              "label": "4",
+              "detail": "Equip passive mask scrolls to augment stamina recovery and damage"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "False Hero Combat Arts Guide",
+          "description": "Explains the game's unique Combat Arts system, including how to steal enemy abilities, combine attacks, and build effective combat strategies.",
+          "href": "/mechanics/false-hero-steal-attacks",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Siphon",
+              "detail": "Extract unique abilities from vanquished enemy essences"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Focus",
+              "detail": "Refill ability FP through deliberate light sword attacks"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Synergy",
+              "detail": "Chain gap-closing dashes directly into stagger cleaves"
+            },
+            {
+              "label": "Stamina",
+              "detail": "Reserve 20% stamina threshold for emergency defensive rolls"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/my-seafood-stand-tier-list",
-          "displayType": "tier-grid",
+          "name": "False Hero Boss Guide",
+          "description": "A boss guide module covering major boss encounters, attack patterns, combat approaches, and preparation suggestions.",
+          "href": "/characters/false-hero-bosses",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Telegraph",
+              "detail": "Identify wide AoE telltale animations before committing heavy arts"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Posture",
+              "detail": "Inflict heavy posture stagger using brute-siphoned impact attacks"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Evasion",
+              "detail": "Utilize precision i-frame rolls to slide through linear strikes"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Counters",
+              "detail": "Equip projectile-clearing god powers against spellcaster bosses"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "False Hero Weapons And Abilities",
+          "description": "Shows available combat abilities, stolen enemy skills, and gameplay options players can unlock throughout the adventure.",
+          "href": "/mechanics/false-hero-abilities",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "S",
+              "detail": "Impact Cleave & Phasing Dash — Unmatched stagger and invulnerability"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "A",
+              "detail": "Divine Shockwave — Premier radial crowd control and burst damage"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "B",
+              "detail": "Rapid Piercing — High frequency pokes optimal for interrupting casts"
+            },
+            {
+              "label": "C",
+              "detail": "Basic Slash — Standard starter tool essential for building Focus"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "False Hero Endings Guide",
+          "description": "Covers story choices, possible endings, and important decisions that affect the player's journey through the world of the gods.",
+          "href": "/guide/false-hero-walkthrough",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Choices",
+              "detail": "Track pivotal narrative decisions across daily encounter schedules"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Pacts",
+              "detail": "Determine alignment with fallen deities and ancient relic shrines"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Branches",
+              "detail": "Unlock distinct character storylines through timed milestone events"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "False Hero Map And Secrets",
+          "description": "Provides exploration information about locations, hidden areas, collectibles, and secrets found throughout the corrupted lands.",
+          "href": "/guide/false-hero-tips",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Shrines",
+              "detail": "Discover hidden god altars to obtain unique passive scrolls"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Elites",
+              "detail": "Hunt optional mini-bosses guarding high-tier ability variants"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Shortcuts",
+              "detail": "Open passage gates connecting checkpoint hubs across regions"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "False Hero Achievements Guide",
+          "description": "Lists Steam achievements and completion objectives with guidance for unlocking challenging milestones.",
+          "href": "/controls/false-hero-controls",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "RB / R1",
+              "detail": "Light Attack — Fast starter swings generating Focus"
+            },
+            {
+              "label": "RT / R2",
+              "detail": "Heavy Attack — Charged strikes breaking enemy guard"
+            },
+            {
+              "label": "Y / Triangle",
+              "detail": "Mask Steal — Siphons slain enemy skills on defeat"
+            },
+            {
+              "label": "LB / L1",
+              "detail": "God Deflect — Timed block deflecting incoming strikes"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "False Hero News And Updates",
+          "description": "Collects official announcements, release updates, development news, and community information from the developer.",
+          "href": "/release/false-hero-release-date",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Steam Demo",
+              "detail": "Official playable demo available on Steam store"
+            },
+            {
+              "label": "Combat Patch",
+              "detail": "Refined parry timing windows and dash responsiveness"
+            },
+            {
+              "label": "Speedrun",
+              "detail": "Active competitive Any% leaderboards and boss challenges"
             }
           ]
         }
@@ -300,27 +348,27 @@
     },
     "faq": {
       "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about My Seafood Stand.",
+      "description": "Quick answers to common questions about False Hero gameplay, combat mechanics, and progression.",
       "items": [
         {
-          "question": "What is My Seafood Stand?",
-          "answer": "My Seafood Stand is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What kind of game is False Hero?",
+          "answer": "False Hero is a fast-paced retro-styled soulslike action RPG where players explore a corrupted realm ruled by fallen gods, defeat monsters, and siphon enemy movesets into customizable combat art combos."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "How does the ability stealing mechanic work in False Hero?",
+          "answer": "Defeating enemies in False Hero causes their kinetic essence to linger for a brief window. Using your relic mask during this opening lets you extract their signature technique and equip up to five active combat arts."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "How do you build Focus to cast Combat Arts in False Hero?",
+          "answer": "In False Hero, basic sword strikes consume stamina but recharge your Focus Points (FP). You then spend Focus to unleash your heavy-hitting stolen abilities."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Can you customize builds and passive perks in False Hero?",
+          "answer": "Yes, False Hero allows you to equip up to five active stolen combat arts and three passive mask scrolls that modify damage output, Focus regeneration rates, and defensive buffs."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "What platforms is False Hero available on?",
+          "answer": "False Hero is available on PC via Steam, featuring full support for both Xbox and PlayStation controllers as well as keyboard and mouse setups."
         }
       ]
     },
@@ -336,7 +384,7 @@
     "activeCodes": "Active Codes",
     "updated": "Updated",
     "viewAllCodes": "View all codes",
-    "playOnRoblox": "Play on Roblox",
+    "playOnRoblox": "Play on Steam",
     "inThisSection": "In this section",
     "tableOfContents": "Table of Contents",
     "nextSteps": "Next Steps",
