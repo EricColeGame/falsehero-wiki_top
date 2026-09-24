@@ -1,0 +1,163 @@
+export const metadata = {
+  title: "False Hero PC Controls Guide: Keybinds, Controller Setup, and Combat Tips",
+  description: "Master the controls for False Hero PC. Learn optimized keyboard and gamepad layouts, input timing for stolen combat arts, and settings to reduce latency.",
+  category: "controls",
+  date: "2026-09-24",
+}
+
+Mastering the blistering, precision-based encounters in **False Hero PC** demands razor-sharp reflexes and complete command over your input scheme. Stealing enemy combat arts and weaving them into relentless combos leaves zero room for sluggish key response or clunky button layouts. Whether you are jumping into **False Hero PC** with a mechanical keyboard or a high-refresh gamepad, tailoring your layout directly dictates your survival in the corrupted Land of the Gods.
+
+This comprehensive controls guide breaks down default bindings, presents community-tested control layouts, analyzes input buffering for stolen arts, and details performance tweaks to eliminate input latency on your rig.
+
+---
+
+## Complete PC Keyboard and Mouse Mapping Guide
+
+Playing third-person soulslike titles on mouse and keyboard can feel intimidating, but an optimized setup gives you distinct advantages in camera control and immediate skill access. In **False Hero PC**, your mask lets you harvest arts from fallen adversaries, requiring quick finger placement across primary attacks and assigned skill slots. 
+
+The default keybindings provide a solid starting point, but competitive player experience suggests moving certain defensive actions off standard modifiers to minimize finger travel time. 
+
+The table below outlines both the baseline default keybindings and an optimized layout tailored for faster combo execution:
+
+| Action Category | Default Keybind | Optimized Community Layout | Mechanical Purpose |
+| :--- | :--- | :--- | :--- |
+| **Light Attack / Primary Strike** | Left Mouse Button | Left Mouse Button | Standard fast weapon combo |
+| **Heavy Attack / Power Strike** | Shift + LMB | Mouse Button 4 (Thumb) | High-stagger windup strike |
+| **Evade / Dash Roll** | Spacebar | Spacebar | Invulnerability frame (i-frame) dodge |
+| **Sprint / Sprint Dash** | Left Shift (Hold) | Left Shift (Hold) | Repositioning across arena zones |
+| **Lock-On Target** | Middle Mouse Click | Middle Mouse Click / Q | Fixes camera orientation on bosses |
+| **Interact / Harvest Mask Art** | E | E | Collects arts from slain foes |
+| **Stolen Combat Art 1** | Q | Mouse Button 5 (Thumb) | Quick-cast offensive enemy skill |
+| **Stolen Combat Art 2** | R | R | Heavy crowd-control or projectile skill |
+| **Divine God Power / Ultimate** | F | F | High-cost transformation or divine burst |
+| **Use Consumable / Flask** | R / C | C | Quick-healing without halting movement |
+| **Camera Reset** | Mouse Movement | Mouse Movement | Free-form environmental observation |
+
+### Key Remapping Strategies for Keyboard Players
+
+Placing your secondary attack or active Combat Art on side mouse buttons (Mouse 4 and Mouse 5) eliminates awkward finger contortions while maintaining full directional WASD movement. Player experience highlights that pressing `Q` or `E` while simultaneously strafing diagonally (`W` + `A` or `W` + `D`) can stall your dodge rhythm during frantic multi-phase boss encounters.
+
+Additionally, consider binding your primary dodge/dash exclusively to `Spacebar` and unlinking tap-sprint functions if you experience accidental rolls when attempting to sprint out of wide area-of-effect hazards.
+
+---
+
+## Controller Layout and Gamepad Configuration
+
+For players who prefer analog movement and progressive trigger feedback, **False Hero PC** provides plug-and-play support for both Xbox and PlayStation controllers. Using an analog stick grants a full 360 degrees of movement, which proves essential when maneuvering around the sweeping strikes of towering arachnid and mechanical monstrosities.
+
+Valve's Steam Deck compatibility rating lists the title as Playable out of the box, meaning handheld users can jump straight into the action with native gamepad glyphs.
+
+The table below details standard controller mapping alongside ergonomic alterations favored by veteran action-RPG players:
+
+| In-Game Action | Xbox Controller Layout | PlayStation Controller Layout | Steam Deck Input |
+| :--- | :--- | :--- | :--- |
+| **Light Attack** | Right Bumper (RB) | R1 | R1 |
+| **Heavy Attack** | Right Trigger (RT) | R2 | R2 |
+| **Dodge / Roll** | B Button | Circle | B Button (or Back Grip L4) |
+| **Sprint** | B Button (Hold) | Circle (Hold) | B Button (or Back Grip L4) |
+| **Lock-On** | Right Stick Click (RS) | R3 | R3 |
+| **Combat Art 1** | Left Bumper (LB) | L1 | L1 |
+| **Combat Art 2** | Left Trigger (LT) | L2 | L2 |
+| **God Power Invocation** | Y + B | Triangle + Circle | Assigned Grip Button (R4) |
+| **Harvest Mask / Interact** | X Button | Square | X Button |
+| **Heal / Quick Item** | D-Pad Down | D-Pad Down | D-Pad Down |
+| **Cycle Equipped Arts** | D-Pad Left / Right | D-Pad Left / Right | D-Pad Left / Right |
+
+### Controller Tuning and Deadzone Management
+
+To get the most responsive feel when running **False Hero PC** through Steam Input, adjust your controller deadzones within the Steam overlay. Setting your inner stick deadzone to roughly 5% to 8% prevents unwanted stick drift while delivering immediate, instantaneous reaction times when evading boss combos.
+
+Community reports suggest mapping Dodge/Roll to an underside paddle (such as L4 or R4 on the Steam Deck or an Xbox Elite controller). Doing so allows you to sprint, dodge, and aim the camera simultaneously without ever lifting your thumb off the right analog stick.
+
+---
+
+## Combat Arts and Input Mechanics: Timing Your Combos
+
+Combat in the corrupted realm centers on a high-tempo feedback loop: learning enemy movement patterns, securing the kill, harvesting their signature move with your scholar's mask, and instantly integrating that attack into your offensive rotation.
+
+Understanding input buffering and cancel windows in **False Hero PC** is vital to surviving against fast-moving bosses. The combat engine does not encourage thoughtless button mashing; rather, it uses an intentional action queue.
+
+The table below outlines how common input chains interact within the game engine:
+
+| Action Sequence | Execution Window | Engine Response / Buffer Rules | Recommended Strategic Use |
+| :--- | :--- | :--- | :--- |
+| **Light Strike > Stolen Art** | Mid-swing animation | Buffers the Art to trigger on the earliest recovery frame | Quick burst damage before boss retaliates |
+| **Heavy Strike > Dodge Cancel** | Before apex of windup | Cancels attack commitment with full i-frame roll | Baiting boss swings safely |
+| **Evade > Counter Strike** | Immediately upon i-frame exit | Triggers dedicated lunging thrust with bonus stagger | Closing distance following a boss miss |
+| **Double Art Chain** | Trigger Art 2 during Art 1 hitstop | Chains two enemy skills with zero neutral animation | Depleting poise meters during stagger windows |
+| **God Power Burst** | Neutral stance or hit recovery | Overrides standard hitstun with invulnerable startup | Emergency defense or finishing off a boss phase |
+
+### Managing Input Buffering and Animation Locks
+
+If you hit your attack button three times rapidly, the engine will queue all three swings. If an enemy winds up a lethal overhead strike during your first swing, an over-buffered input will prevent you from rolling in time. 
+
+Train your fingers to press inputs deliberately—one tap per intended action. Community feedback frequently notes that mastering this discipline separates players who breeze through the mountaintop kingdom of Wisdom from those stuck on introductory bosses.
+
+---
+
+## System Requirements and Latency Optimization
+
+Input responsiveness relies heavily on stable hardware performance. Stutters, frame pacing drops, and monitor refresh mismatches create perceptible input lag that ruins precision-parry and dodge timing. 
+
+Before diving into extensive configuration, verify that your computer meets or exceeds the official hardware specifications published on the [False Hero Steam store page](https://store.steampowered.com/app/2538870/False_Hero/):
+
+| Hardware Specification | Minimum System Requirements | Recommended System Requirements |
+| :--- | :--- | :--- |
+| **Operating System** | Windows 10 (64-bit) | Windows 11 (64-bit) |
+| **CPU / Processor** | Intel Core i5-8400 / AMD Ryzen 5 2600 | Intel Core i5-10400 / AMD Ryzen 5 3600 |
+| **System Memory (RAM)** | 8 GB RAM | 16 GB RAM |
+| **Graphics Card (GPU)** | NVIDIA GeForce GTX 970 | NVIDIA GeForce RTX 2060 / AMD Radeon RX 6600 |
+| **DirectX API** | Version 10 | Version 12 |
+| **Available Storage** | 12 GB available space | 12 GB available space (SSD recommended) |
+
+### In-Game Graphics Settings for Lowest Input Lag
+
+To achieve the lowest possible click-to-photon latency when playing **False Hero PC**, balance graphic fidelity against pure performance. The hand-crafted retro visual style scales smoothly, allowing even mid-range setups to hold high refresh rates.
+
+Use the configuration table below to tune your graphics menu:
+
+| Graphic Option | Recommended Setting | Impact on Input Latency & Fluidity |
+| :--- | :--- | :--- |
+| **Display Mode** | Exclusive Fullscreen | Bypasses Windows Desktop Window Manager compositor lag |
+| **V-Sync** | Off (Enable G-Sync/FreeSync via GPU panel) | Removes traditional double-buffered vertical sync latency |
+| **Frame Rate Limit** | Cap at 3 FPS below monitor refresh (e.g., 141 Hz on 144 Hz) | Keeps display within variable refresh rate range consistently |
+| **Shadow Quality** | Medium | Reduces CPU draw call spikes during busy arena boss fights |
+| **Post-Processing / Motion Blur**| Disabled / Off | Improves visual clarity on boss windup telegraphs |
+| **Anti-Aliasing** | TAA or FXAA Low | Keeps edges clean without introducing heavy render overhead |
+
+---
+
+## Advanced Combat Tactics and Camera Controls
+
+Surviving the surreal worlds of lush swamps, chilling ruins, and ancient cities requires mastering the game's camera behavior alongside your weapon moveset. Many soulslike players struggle when engaging massive bosses because large enemy models can obscure attack telegraphs when locked on at close range.
+
+### Mastering Lock-On Flexibility
+
+The lock-on feature automatically centers your target, but keeping it active at all times can work against you. In encounters featuring swarming minions or multi-part bosses like the giant arachnoid, playing unlocked grants superior situational awareness. 
+
+- **Lock On:** Ideal for one-on-one humanoid duels, flying angelic adversaries, and landing direct-line projectile Combat Arts.
+- **Lock Off:** Essential when navigating wide crowd-control encounters, running away from sweeping ground-hazard explosions, or manually steering wide horizontal heavy slashes.
+
+### Positioning, Poise, and Recovery Frames
+
+Because the title eschews traditional gear grinding in favor of pure skill mastery, your defensive positioning is your primary shield. When chaining stolen moves, evaluate each art's recovery time:
+- Fast slashes (derived from basic sword-wielding husks) carry brief recovery windows, making them safe combo starters.
+- Crushing beast slams deal massive stagger damage but leave you vulnerable to counter-attacks if mistimed.
+
+Always reserve at least 15% to 20% of your stamina bar to execute a reactive dodge roll immediately after your final offensive input.
+
+---
+
+## Frequently Asked Questions
+
+### Can you play False Hero PC effectively on keyboard and mouse?
+Yes. While many players naturally gravitate toward controllers for soulslike games, **False Hero PC** offers full keyboard and mouse functionality. By binding secondary attacks and active Combat Arts to auxiliary side thumb buttons on your mouse, you can achieve swift, precise camera adjustments and execute combos just as effectively as gamepad users.
+
+### Does False Hero PC feature native controller support on Steam?
+Yes, the title natively supports both Xbox and PlayStation controllers with proper in-game prompts. Additionally, because the game is rated Playable on Steam Deck, you can seamlessly remap your inputs using Steam Input profiles or community layouts to best fit your personal grip preference.
+
+### How do you steal and trigger enemy abilities in False Hero PC?
+Your character's mask allows you to steal unique abilities from slain enemies. Once an enemy is defeated, interact with their remains to claim their combat art. You can equip multiple arts in your loadout slots and activate them in real time using your assigned skill hotkeys (`Q`/`R` on keyboard, or `LB`/`LT` on controller) to weave them directly into your regular sword combos.
+
+### How can I reduce input delay while playing False Hero PC?
+To minimize input lag, run the game in Exclusive Fullscreen mode, turn off in-game V-Sync, and set an external frame rate cap just below your monitor's maximum refresh rate via your graphics control panel. If playing on a gamepad, lowering the analog stick deadzones in Steam's controller configuration will make your movement and dodging feel noticeably more responsive.
