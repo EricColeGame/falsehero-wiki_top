@@ -13,6 +13,7 @@ export interface SiteConfig {
     youtube?: string;
     twitter?: string;
     tiktok?: string;
+    steam?: string;
   };
   locales: readonly string[];
   defaultLocale: string;
