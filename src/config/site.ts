@@ -33,6 +33,6 @@ export const siteConfig: SiteConfig = {
     youtube: "https://www.youtube.com/@torchlight-games",
     steam: "https://steamcommunity.com/app/2538870",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "ja", "de", "es"],
   defaultLocale: "en",
 };
