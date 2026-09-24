@@ -9,14 +9,7 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme",
-    "guide": "Guide",
-    "mechanics": "Mechanics",
-    "characters": "Characters",
-    "progression": "Progression",
-    "controls": "Controls",
-    "community": "Community",
-    "release": "Release"
+    "toggleTheme": "Toggle theme"
   },
   "home": {
     "meta": {
@@ -426,32 +419,11 @@
     "combatMechanics": "Combat Mechanics",
     "controlsGuide": "Controls Guide"
   },
-  "guide": {
-    "overviewTitle": "False Hero Guides & Walkthroughs",
-    "overviewDescription": "Comprehensive walkthroughs, beginner tips, speedrun strategies, and route choices to master False Hero."
-  },
-  "mechanics": {
-    "overviewTitle": "False Hero Combat Mechanics & Systems",
-    "overviewDescription": "In-depth breakdowns of combat arts, parry windows, stagger dynamics, and ability stealing in False Hero."
-  },
-  "characters": {
-    "overviewTitle": "False Hero Bosses, Enemies & Characters",
-    "overviewDescription": "Detailed guides to bosses, enemy encounters, corrupted deities, bestiary entries, and story lore in False Hero."
-  },
-  "progression": {
-    "overviewTitle": "False Hero Progression & Character Builds",
-    "overviewDescription": "Master combat art combinations, stolen abilities, skill trees, stat upgrades, and optimal character builds in False Hero."
-  },
-  "controls": {
-    "overviewTitle": "False Hero Controls & Keybindings",
-    "overviewDescription": "Optimal controller layouts, PC keyboard and mouse keybinds, and Steam Deck configurations for False Hero."
-  },
-  "community": {
-    "overviewTitle": "False Hero Community & Reviews",
-    "overviewDescription": "Connect with the False Hero community through official Discord hubs, Reddit discussions, and detailed gameplay reviews."
-  },
-  "release": {
-    "overviewTitle": "False Hero Release Information & Updates",
-    "overviewDescription": "Stay informed on the False Hero release date, edition details, official trailers, PC system specs, and patch notes."
-  }
+  "guide": {},
+  "mechanics": {},
+  "characters": {},
+  "progression": {},
+  "controls": {},
+  "community": {},
+  "release": {}
 }
