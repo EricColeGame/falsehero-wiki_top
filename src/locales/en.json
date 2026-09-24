@@ -159,7 +159,7 @@
         {
           "order": 1,
           "name": "False Hero Beginner Guide",
-          "description": "A beginner-focused guide covering core gameplay mechanics, combat basics, enemy attack stealing, exploration tips, and important systems for new players.",
+          "description": "A beginner-focused guide covering core gameplay mechanics, combat basics, enemy attack stealing, exploration tips, and important systems for new players. This module helps players understand how to start effectively in this challenging soulslike adventure.",
           "href": "/guide/false-hero-beginner-guide",
           "displayType": "step-by-step",
           "highlights": [
@@ -184,7 +184,7 @@
         {
           "order": 2,
           "name": "False Hero Combat Arts Guide",
-          "description": "Explains the game's unique Combat Arts system, including how to steal enemy abilities, combine attacks, and build effective combat strategies.",
+          "description": "Explains the game's unique Combat Arts system, including how to steal enemy abilities, combine attacks, and build effective combat strategies. Useful for players searching for ability and combo information.",
           "href": "/mechanics/false-hero-steal-attacks",
           "displayType": "card-list",
           "highlights": [
@@ -209,7 +209,7 @@
         {
           "order": 3,
           "name": "False Hero Boss Guide",
-          "description": "A boss guide module covering major boss encounters, attack patterns, combat approaches, and preparation suggestions.",
+          "description": "A boss guide module covering major boss encounters, attack patterns, combat approaches, and preparation suggestions. It targets players looking for help with difficult fights and progression blocks.",
           "href": "/characters/false-hero-bosses",
           "displayType": "card-list",
           "highlights": [
@@ -234,7 +234,7 @@
         {
           "order": 4,
           "name": "False Hero Weapons And Abilities",
-          "description": "Shows available combat abilities, stolen enemy skills, and gameplay options players can unlock throughout the adventure.",
+          "description": "Shows available combat abilities, stolen enemy skills, and gameplay options players can unlock throughout the adventure. This section supports searches related to builds, skills, and power progression.",
           "href": "/mechanics/false-hero-abilities",
           "displayType": "tier-grid",
           "highlights": [
@@ -259,7 +259,7 @@
         {
           "order": 5,
           "name": "False Hero Endings Guide",
-          "description": "Covers story choices, possible endings, and important decisions that affect the player's journey through the world of the gods.",
+          "description": "Covers story choices, possible endings, and important decisions that affect the player's journey through the world of the gods. This targets players searching for completion and story-related information.",
           "href": "/guide/false-hero-walkthrough",
           "displayType": "card-list",
           "highlights": [
@@ -280,7 +280,7 @@
         {
           "order": 6,
           "name": "False Hero Map And Secrets",
-          "description": "Provides exploration information about locations, hidden areas, collectibles, and secrets found throughout the corrupted lands.",
+          "description": "Provides exploration information about locations, hidden areas, collectibles, and secrets found throughout the corrupted lands. This module helps players who want full exploration guidance.",
           "href": "/guide/false-hero-tips",
           "displayType": "card-list",
           "highlights": [
@@ -301,7 +301,7 @@
         {
           "order": 7,
           "name": "False Hero Achievements Guide",
-          "description": "Lists Steam achievements and completion objectives with guidance for unlocking challenging milestones.",
+          "description": "Lists Steam achievements and completion objectives with guidance for unlocking challenging milestones. It supports achievement hunters and players aiming for full completion.",
           "href": "/controls/false-hero-controls",
           "displayType": "code-cards",
           "highlights": [
@@ -326,7 +326,7 @@
         {
           "order": 8,
           "name": "False Hero News And Updates",
-          "description": "Collects official announcements, release updates, development news, and community information from the developer.",
+          "description": "Collects official announcements, release updates, development news, and community information from the developer. It keeps players updated on patches and future content.",
           "href": "/release/false-hero-release-date",
           "displayType": "code-cards",
           "highlights": [
