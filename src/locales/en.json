@@ -8,13 +8,6 @@
   },
   "nav": {
     "home": "Home",
-    "guide": "Guide",
-    "mechanics": "Mechanics",
-    "characters": "Characters",
-    "progression": "Progression",
-    "controls": "Controls",
-    "community": "Community",
-    "release": "Release",
     "menu": "Menu",
     "toggleTheme": "Toggle theme"
   },
@@ -426,32 +419,11 @@
     "combatMechanics": "Combat Mechanics",
     "controlsGuide": "Controls Guide"
   },
-  "guide": {
-    "overviewTitle": "False Hero Guides & Walkthroughs",
-    "overviewDescription": "Comprehensive walkthroughs, beginner tips, speedrun routes, and progression strategies for False Hero."
-  },
-  "mechanics": {
-    "overviewTitle": "False Hero Combat Mechanics",
-    "overviewDescription": "In-depth breakdown of combat systems, parry timing, stolen enemy abilities, and soulslike mechanics in False Hero."
-  },
-  "characters": {
-    "overviewTitle": "False Hero Characters & Bosses",
-    "overviewDescription": "Complete database of False Hero characters, fallen gods, formidable bosses, and hostile enemy variants."
-  },
-  "progression": {
-    "overviewTitle": "False Hero Progression & Builds",
-    "overviewDescription": "Master character stat allocation, optimal weapon upgrades, skill trees, and endgame builds in False Hero."
-  },
-  "controls": {
-    "overviewTitle": "False Hero Controls & Keybindings",
-    "overviewDescription": "Default PC keyboard bindings, controller configurations, and Steam Deck setup for False Hero."
-  },
-  "community": {
-    "overviewTitle": "False Hero Community Hub",
-    "overviewDescription": "Connect with the False Hero player community, official Discord server, Reddit discussions, and demo feedback."
-  },
-  "release": {
-    "overviewTitle": "False Hero Release & Updates",
-    "overviewDescription": "Latest False Hero release date details, launch announcements, patch notes, and official trailer breakdowns."
-  }
+  "guide": {},
+  "mechanics": {},
+  "characters": {},
+  "progression": {},
+  "controls": {},
+  "community": {},
+  "release": {}
 }
