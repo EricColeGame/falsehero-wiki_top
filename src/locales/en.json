@@ -6,16 +6,7 @@
     "description": "Explore False Hero Wiki with combat guides, boss strategies, ability builds, gameplay tips, and detailed information for this dark fantasy soulslike adventure RPG.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
-  "nav": {
-    "home": "Home",
-    "guide": "Guide",
-    "mechanics": "Mechanics",
-    "characters": "Characters",
-    "progression": "Progression",
-    "controls": "Controls",
-    "community": "Community",
-    "release": "Release"
-  },
+  "nav": {},
   "home": {
     "meta": {
       "title": "False Hero Wiki — Combat Arts, Boss Guides & Builds",
