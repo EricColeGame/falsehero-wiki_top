@@ -26,6 +26,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     metadataBase: new URL(siteUrl),
     title: { default: "False Hero Wiki", template: "%s" },
     description: "Explore False Hero Wiki with combat guides, boss strategies, ability builds, gameplay tips, and detailed information for this dark fantasy soulslike adventure RPG.",
+    keywords: ["False Hero", "Steam", "Soulslike", "Dark Fantasy RPG", "Boss Fight", "Combat Guide"],
     openGraph: {
       type: "website",
       locale,
