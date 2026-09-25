@@ -32,6 +32,8 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
       locale,
       url: `${siteUrl}/${locale}`,
       siteName: siteConfig.name,
+      title: "False Hero Wiki",
+      description: "Explore False Hero Wiki with combat guides, boss strategies, ability builds, gameplay tips, and detailed information for this dark fantasy soulslike adventure RPG.",
       images: [{ url: image, width: 1280, height: 720, alt: "False Hero Wiki" }],
     },
     twitter: {
