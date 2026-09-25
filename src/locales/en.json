@@ -9,7 +9,14 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "characters": "Characters",
+    "progression": "Progression",
+    "controls": "Controls",
+    "community": "Community",
+    "release": "Release"
   },
   "home": {
     "meta": {
@@ -418,5 +425,33 @@
     "termsOfService": "Terms of Service",
     "combatMechanics": "Combat Mechanics",
     "controlsGuide": "Controls Guide"
+  },
+  "guide": {
+    "overviewTitle": "False Hero Guides & Walkthroughs",
+    "overviewDescription": "Comprehensive walkthroughs, beginner tips, speedrun strategies, and practical advice to conquer False Hero."
+  },
+  "mechanics": {
+    "overviewTitle": "False Hero Combat & Mechanics",
+    "overviewDescription": "Deep dive into combat mechanics, parry timing, stolen enemy abilities, soulslike systems, and mastery."
+  },
+  "characters": {
+    "overviewTitle": "False Hero Characters & Bosses",
+    "overviewDescription": "Detailed database of gods, bosses, regular enemies, and monsters across the corrupt realms of False Hero."
+  },
+  "progression": {
+    "overviewTitle": "False Hero Progression & Builds",
+    "overviewDescription": "Skill trees, upgrade paths, character build optimization, and difficulty scaling in False Hero."
+  },
+  "controls": {
+    "overviewTitle": "False Hero Controls & Settings",
+    "overviewDescription": "Complete keybindings, gamepad layouts, PC configurations, and controller optimization for False Hero."
+  },
+  "community": {
+    "overviewTitle": "False Hero Community & Reviews",
+    "overviewDescription": "Connect with the community on Reddit and Discord, read demo impressions, and check player reviews."
+  },
+  "release": {
+    "overviewTitle": "False Hero Release & Updates",
+    "overviewDescription": "Launch schedules, release date announcements, trailers, and platform rollout details for False Hero."
   }
 }
