@@ -27,6 +27,15 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     title: { default: "False Hero Wiki", template: "%s" },
     description: "Explore False Hero Wiki with combat guides, boss strategies, ability builds, gameplay tips, and detailed information for this dark fantasy soulslike adventure RPG.",
     keywords: ["False Hero", "Steam", "Soulslike", "Dark Fantasy RPG", "Boss Fight", "Combat Guide"],
+    manifest: "/manifest.json",
+    icons: {
+      icon: [
+        { url: "/favicon-32x32.png", sizes: "32x32", type: "image/png" },
+        { url: "/favicon-16x16.png", sizes: "16x16", type: "image/png" },
+      ],
+      shortcut: ["/favicon.ico"],
+      apple: [{ url: "/apple-touch-icon.png", sizes: "180x180", type: "image/png" }],
+    },
     openGraph: {
       type: "website",
       locale,
