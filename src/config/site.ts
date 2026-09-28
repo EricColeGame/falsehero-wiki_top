@@ -30,7 +30,7 @@ export const siteConfig: SiteConfig = {
   gameUrl: "https://store.steampowered.com/app/2538870/False_Hero/",
   heroVideoId: "Aq7PTIxoZa0",
   social: {
-    discord: "https://discord.com/invite/XU6BbFKP",
+    discord: "https://discord.gg/yHUdDcYJZ6",
     youtube: "https://www.youtube.com/@torchlight-games",
     steam: "https://steamcommunity.com/app/2538870",
   },
